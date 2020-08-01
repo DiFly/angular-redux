@@ -5,3 +5,5 @@
   // const store = createStore(mathApp, something.state_from_server);
 
 //console.log(store.getState());
+
+export default store;
